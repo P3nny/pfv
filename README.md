@@ -24,6 +24,6 @@
 
    `jupyter lab`
 
-7. In `/notebooks` bitte folgende Datei anklicken:
+7. Bitte folgende Datei anklicken:
 
 01_jupyter_lab.ipynb
