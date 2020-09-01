@@ -26,4 +26,4 @@
 
 7. Bitte folgende Datei anklicken:
 
-01_jupyter_lab.ipynb
+   `01_jupyter_lab.ipynb`
