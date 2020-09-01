@@ -2,7 +2,7 @@
 
 1. Repo clonen
 
-   `git clone git@github.com:P3nny/pfv.git`
+   `git clone https://github.com/P3nny/pfv.git`
 
 2. In das Verzeichnis wechseln
 
