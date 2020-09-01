@@ -10,11 +10,15 @@
 
 3. Virtuelles Environment aufsetzen
 
-   `python3 -m venv myvenv`
+   - MacOS/Linux: `python3 -m venv myvenv`
+   - Windows: `python -m venv myvenv`
 
 4. Virtuelles Environment aktivieren
 
-   `source myvenv/bin/activate`
+   - MacOS/Linux: `source myvenv/bin/activate`
+   - Windows (git bash): `myvenv/Scripts/activate`
+   - Windows (Powershell): `myvenv/Scripts/Activate.ps1`
+   - Windows (CMD): `myvenv/Scripts/activate.bat`
 
 5. Benötigte Pakete installieren
 
