@@ -1,0 +1,15 @@
+{
+    "name": "Jannes",
+    "age": 25,
+    "height": 1.86,
+    "working_remote": true,
+    "car": {
+        "maker": "Toyota",
+        "model": "Auris"
+    },
+    "hobbies": [
+        "Programmieren",
+        "Musik machen",
+        "Zocken"
+    ]
+}
