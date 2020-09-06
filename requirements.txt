@@ -1,3 +1,4 @@
+wheel
 argon2-cffi==20.1.0
 attrs==20.1.0
 backcall==0.2.0
@@ -62,3 +63,4 @@ urllib3==1.25.10
 wcwidth==0.2.5
 webencodings==0.5.1
 zipp==3.1.0
+python-Levenshtein==0.12.0
