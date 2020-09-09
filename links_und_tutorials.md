@@ -8,7 +8,7 @@ https://github.com/P3nny/pfv/blob/master/links_und_tutorials.md
 ## Data Harvest
 
 Sehr zu empfehlen ist die DataHarvest Konferenz, die in den kommenden Wochen / Monaten online stattfindet:
-https://dataharvest.eu/dataharvest-digital-2020-sneak-preview/
+https://dataharvest.eu/program-2/
 
 Da gibt es auch Programmieren für Journalisten / Pandas Kurse, zudem Vernetztung mit investigativen Journalist:innen in Europa.
 
