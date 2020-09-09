@@ -1,5 +1,10 @@
 # Linksammlung zu Programmieren für Volos 2020
 
+## Pandas Glossar
+
+Work in progress:
+https://github.com/P3nny/pfv/blob/master/links_und_tutorials.md
+
 ## Data Harvest
 
 Sehr zu empfehlen ist die DataHarvest Konferenz, die in den kommenden Wochen / Monaten online stattfindet:
