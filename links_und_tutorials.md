@@ -10,11 +10,11 @@ https://github.com/P3nny/pfv/blob/master/links_und_tutorials.md
 Sehr zu empfehlen ist die DataHarvest Konferenz, die in den kommenden Wochen / Monaten online stattfindet:
 https://dataharvest.eu/program-2/
 
-Da gibt es auch Programmieren für Journalisten / Pandas Kurse, zudem Vernetztung mit investigativen Journalist:innen in Europa.
+Da gibt es auch Programmieren für Journalisten / Pandas Kurse, zudem Vernetzung mit investigativen Journalist:innen in Europa.
 
 ## Deutsche Konferenzen zum Thema
 
-Die **SciCar** ist eine Konferenz in Dortmund zur Vernetzung von (Daten)-Journalist:innen und Wissenschaft.
+Die **SciCar** ist eine Konferenz in Dortmund zur Vernetzung von (Daten)-Journalist:innen und Wissenschaft. Sie findet dieses Jahr vom 02.11 bis 04.11 statt:
 https://www.scicar.de/
 
 Das Klassentreffen der Daten-Journalist:innen gibt es in Hamburg wieder 2021 - Die **#nr21** (Netzwerk Recherche Tagung):
