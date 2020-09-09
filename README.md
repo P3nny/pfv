@@ -27,9 +27,9 @@ In deinem neuem Verzeichnis legst du bitte ein neues virtuelles Environment an, 
 Dann aktivierst du das virtual Environment:
 
    - MacOS/Linux: `$ source myvenv/bin/activate`
-   - Windows (git bash): `$ myvenv/Scripts/activate`
-   - Windows (Powershell): `> myvenv/Scripts/Activate.ps1`
-   - Windows (CMD/Eingabeaufforderung): `> myvenv/Scripts/activate.bat`
+   - Windows (git bash): `$ ./myvenv/Scripts/activate`
+   - Windows (Powershell): `> myvenv\Scripts\Activate.ps1`
+   - Windows (CMD/Eingabeaufforderung): `> myvenv\Scripts\activate.bat`
 
 ### 5. Benötigte Pakete installieren
 
