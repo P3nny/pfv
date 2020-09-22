@@ -59,7 +59,9 @@
 
 - Datawrapper Chart als iFrame einbinden
 
-  `import IPython IPython.display.IFrame('https://datawrapper.dwcdn.net/IJwst/4/', width='600', height='750')`
+  `import IPython`
+  
+  `IPython.display.IFrame('https://datawrapper.dwcdn.net/IJwst/4/', width='600', height='750')`
 
 - Ggf. neu installierte, eigene Pakete in requirements.txt schreiben
 
