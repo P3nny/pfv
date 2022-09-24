@@ -3,7 +3,7 @@
 ## Pandas Glossar
 
 Work in progress:
-https://github.com/P3nny/pfv/blob/master/links_und_tutorials.md
+https://docs.google.com/spreadsheets/d/1fk8gdO9AaCuB9PhiV2aEHEdb5XlRoTSlolw0a2HromU/edit?usp=sharing
 
 ## Data Harvest
 
